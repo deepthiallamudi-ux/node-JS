@@ -17,12 +17,5 @@ console.log("file created");
 
 
 
-
-Worker Threads
-
-What are worker threads?
-Why are worker threads needed?
-Difference between thread pool and worker threads
-
   
 
