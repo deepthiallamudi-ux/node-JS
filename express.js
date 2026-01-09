@@ -1,5 +1,17 @@
 import express from 'express';
 const app=express();   //creating an express application
+app.get('/',(req,res)=>{   //defining a route for GET request on root URL
+    res.send('Welcome to Express.js Server!');   
+});
+app.get('/home',(req,res)=>{   
+    res.send('<h3 style="color:blue;">Hello World from Express.js!</h3>');   
+});
+app.get('/contact',(req,res)=>{  
+    res.json({message: 'Hello World from Express.js!'});   
+});
+app.get('/blog',(req,res)=>{  
+    res.send('Hello World from Express.js!');   
+});
 const port=3000;  //defining a port number
 app.listen(port,()=>{
     console.log(`server is running on http://localhost:${port}`);
