@@ -1,0 +1,18 @@
+//difference between data, information in databases means in databases, data refers to the individual pieces of information stored in tables, such as numbers, text, or dates. information, on the other hand, is the result of organizing and analyzing that data to provide insights or knowledge that can be used for decision-making.
+
+
+// superbase is an open-source backend-as-a-service (BaaS) platform that provides developers with a suite of tools and services to build and scale web and mobile applications quickly. it offers features like a real-time database, authentication, storage, and serverless functions, making it easier for developers to focus on building their applications without worrying about managing the backend infrastructure.
+
+// supabase is built on top of PostgreSQL, a powerful and widely-used relational database management system. it provides a user-friendly interface and a set of APIs that allow developers to interact with the database and other services easily.
+
+// sql is a domain-specific language used in programming and designed for managing and manipulating relational databases. it is used to perform various operations on the data stored in databases, such as querying, inserting, updating, and deleting records. sql provides a standardized way to interact with databases, making it easier for developers to work with different database management systems.
+// sql is used to communicate with and manage relational databases.it is rdbms (relational database management systems) like MySQL, PostgreSQL, SQLite, and others use sql as their primary language for interacting with the database. sql allows developers to define the structure of the database, manipulate data, and retrieve information efficiently.
+// rdbms (relational database management system) is a type of database management system that organizes data into tables with rows and columns, allowing for easy data retrieval and manipulation using structured query language (sql). examples of rdbms include MySQL, PostgreSQL, Oracle Database, and SQLite.
+
+// nosql databases are designed to handle large volumes of unstructured or semi-structured data, making them suitable for big data applications, real-time web applications, and other scenarios where traditional relational databases may not be the best fit.
+
+// superbase is better than firebase because it is open-source, built on PostgreSQL, offers a SQL interface, provides real-time capabilities, has a user-friendly interface, and allows for greater flexibility and control over the backend infrastructure compared to Firebase, which is a proprietary platform owned by Google.
+
+// difference between projection and selection in databases: projection refers to the operation of selecting specific columns or attributes from a table, while selection refers to the operation of filtering rows based on certain conditions. in other words, projection focuses on which data to retrieve (columns), while selection focuses on which data to include based on criteria (rows).
+
+// normalization in databases is the process of organizing data to minimize redundancy and improve data integrity. it involves dividing large tables into smaller, related tables and defining relationships between them using primary and foreign keys. normalization helps ensure that data is stored efficiently and consistently, reducing the chances of anomalies during data operations like insertions, updates, and deletions.
